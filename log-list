@@ -1,0 +1,19 @@
+total 52
+-rwxrwxrwx. 1 ec2-user ec2-user 3013 Jul  2 14:17 dosa.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 1859 Jul  2 14:18 idli.sh
+-rwxrwxrwx. 1 ec2-user ec2-user  249 Jul  2 14:19 poori.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 1989 Jul  2 14:19 pulav.sh
+-rwxrwxrwx. 1 ec2-user ec2-user  729 Jul  2 14:20 foodmenu.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 2009 Jul  2 14:20 coffee_tea.sh
+-rwxrwxrwx. 1 ec2-user ec2-user  246 Jul  2 14:24 mailnotify.sh
+-rwxrwxrwx. 1 ec2-user ec2-user  126 Jul  2 14:46 addn.sh
+-rwxrwxrwx. 1 ec2-user ec2-user  270 Jul  2 14:47 subtractn.sh
+-rwxrwxrwx. 1 ec2-user ec2-user  151 Jul  2 14:49 multiplyn.sh
+-rwxrwxrwx. 1 ec2-user ec2-user  256 Jul  2 14:50 divisionn.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 1398 Jul  2 14:54 calculator.sh
+-rwxrwxrwx. 1 ec2-user ec2-user  667 Jul  2 14:56 weeks_files.sh
+-rw-r--r--. 1 ec2-user ec2-user    0 Jul  2 14:57 log_2
+-rw-r--r--. 1 ec2-user ec2-user    0 Jul  2 14:57 log_1
+-rw-r--r--. 1 ec2-user ec2-user    0 Jul  2 14:57 log1_backup
+-rw-r--r--. 1 ec2-user ec2-user    0 Jul  2 14:57 log2_backup
+-rw-r--r--. 1 ec2-user ec2-user    0 Jul  2 14:58 log-list
